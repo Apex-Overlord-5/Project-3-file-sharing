@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "start": "nodemon index.js"
+  },
+  "name": "project-3-file-sharing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
